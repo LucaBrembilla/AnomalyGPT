@@ -31,7 +31,7 @@ Zhaopeng Gu, Bingke Zhu, Guibo Zhu, Yingying Chen, Ming Tang, Jinqiao Wang
 * <a href='#train_anomalygpt'>3. Train Your Own AnomalyGPT</a>
     * <a href='#data_preparation'>3.1 Data Preparation</a>
     * <a href='#training_configurations'>3.2 Training Configurations</a>
-    * <a href='#model_training'>3.3 Training AnoamlyGPT</a>
+    * <a href='#model_training'>3.3 Training AnomalyGPT</a>
 
 * <a href='#examples'>4. Examples</a>
 <!-- * <a href='#results'>5. Results</a> -->
